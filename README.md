@@ -20,7 +20,6 @@ The lending of an NFT in the context of this protocol means that:
 4. The borrower repays the loan within the specified term
 5. If the borrower defaults, the lender can claim the NFT collateral
 6. A loan may be replaced by the borrower while still ongoing, by accepting other offer
-7. A loan may be replaced by the lender while still ongoing, within some defined conditions
 
 In addition, the protocol supports a broker system to facilitate loans and integrates with a delegation registry for potential NFT rentals during the loan period.
 
